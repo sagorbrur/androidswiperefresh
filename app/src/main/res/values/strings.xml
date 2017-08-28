@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Adding Swip Refresh</string>
+    <string name="menu_refresh">Refresh</string>
+</resources>
